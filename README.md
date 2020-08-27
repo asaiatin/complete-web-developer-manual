@@ -82,7 +82,8 @@ Tags:
 *	dropdown `<select>`
 	*	option `<option>`
 *	comment `<!-- -->`
-*	`<div>` and `<span>`
+*	`<div>` : Section and `<span>` : Inline
+* 	Type, name, Value
 
 Semantic Elements
 *	`<header>`
